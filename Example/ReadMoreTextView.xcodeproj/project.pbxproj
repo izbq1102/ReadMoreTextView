@@ -131,7 +131,7 @@
 				TargetAttributes = {
 					094F38561AD1DD6E00BCD70D = {
 						CreatedOnToolsVersion = 6.2;
-						DevelopmentTeam = 4LTD6LARKC;
+						DevelopmentTeam = 2TW9F2RB7X;
 						LastSwiftMigration = 0800;
 					};
 				};
@@ -297,7 +297,7 @@
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -343,7 +343,7 @@
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
@@ -353,11 +353,12 @@
 			baseConfigurationReference = 7C937E2F4988BFA784F501EA /* Pods-ReadMoreTextViewExample.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 4LTD6LARKC;
+				DEVELOPMENT_TEAM = 2TW9F2RB7X;
 				INFOPLIST_FILE = ReadMoreTextView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "ilya.puchka.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -366,11 +367,12 @@
 			baseConfigurationReference = A015F18144C48980B24F9D27 /* Pods-ReadMoreTextViewExample.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 4LTD6LARKC;
+				DEVELOPMENT_TEAM = 2TW9F2RB7X;
 				INFOPLIST_FILE = ReadMoreTextView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "ilya.puchka.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
 			};
 			name = Release;
 		};
